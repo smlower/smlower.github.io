@@ -30,7 +30,7 @@ twitter_username: es_em_ell
 github_username:  smlower
 
 # Build settings
-theme: bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
   - jekyll-feed
 
