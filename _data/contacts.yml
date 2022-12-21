@@ -1,0 +1,20 @@
+height: is-small
+items:
+  - title: Email
+    icon: fa-envelope
+    call_to_action_name: s.lower@ufl.edu
+    call_to_action_link: mailto:s.lower@ufl.edu
+  - title: Github
+    icon: fa-github
+    call_to_action_name: SL @ Github
+    call_to_action_link: https://github.com/smlower
+    icon_brand: true
+  - title: Google Scholar
+    icon: fa-book
+    call_to_action_name: SL @ Google Scholar
+    call_to_action_link: https://scholar.google.com/citations?user=Rhxu2vsAAAAJ&hl=en
+  - title: Twitter
+    icon: fa-twitter
+    call_to_action_name: SL @ Twitter
+    call_to_action_link: https://twitter.com/es_em_ell
+    icon_brand: true
