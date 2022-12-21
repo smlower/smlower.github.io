@@ -8,13 +8,11 @@ permalink: contact
 
 
 
-<div style="float: left; display: flex;
-        justify-content: center;
-        align-items: center;">
-	<img src="75339572_10157501248738955_1646328279579230208_o.jpg" width=500>
-
-
-
+<div class="columns is-mobile is-centered is-vcentered">
+  <div class="column is-half">
+    <img src="75339572_10157501248738955_1646328279579230208_o.jpg">
+  </div>
+  <div class="column">
     <section class="hero  is-small  ">
         <div class="hero-body">
             <div class="container">
@@ -28,11 +26,7 @@ permalink: contact
                             
                             </div>
                             
-                            <p class="title is-5">Email</p>
-                            <p class="subtitle is-5"></p>
-                            
-                            
-
+                            <p class="block"><h5>Email</h5></p>
                             
                             <a href="mailto:s.lower@ufl.edu" class="button is-primary">
                                 s.lower@ufl.edu
@@ -48,14 +42,10 @@ permalink: contact
                             
                             </div>
                             
-                            <p class="title is-5">Github</p>
-                            <p class="subtitle is-5"></p>
-                            
-                            
-
+                            <p class="block"><h5>Github</h5></p>
                             
                             <a href="https://github.com/smlower" class="button is-primary">
-                                SL @ Github
+                                @smlower
                             </a>
                             
                         </div>
@@ -68,14 +58,10 @@ permalink: contact
                             
                             </div>
                             
-                            <p class="title is-5">Google Scholar</p>
-                            <p class="subtitle is-5"></p>
-                            
-                            
-
+                            <p class="block"><h5>Google Scholar</h5></p>
                             
                             <a href="https://scholar.google.com/citations?user=Rhxu2vsAAAAJ&hl=en" class="button is-primary">
-                                SL @ Google Scholar
+                                Sidney Lower
                             </a>
                             
                         </div>
@@ -88,14 +74,10 @@ permalink: contact
                             
                             </div>
                             
-                            <p class="title is-5">Twitter</p>
-                            <p class="subtitle is-5"></p>
-                            
-                            
-
+                            <p class="block"><h5>Twitter</h5></p>
                             
                             <a href="https://twitter.com/es_em_ell" class="button is-primary">
-                                SL @ Twitter
+                                @es_em_ell
                             </a>
                             
                         </div>
