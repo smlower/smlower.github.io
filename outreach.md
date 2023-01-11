@@ -135,7 +135,7 @@ Since joining the University of Florida astronomy department, I've had fantastic
   </div>
   <div class="card-content">
     <div class="content">
-    I had a fantastic opportunity to travel to the island of Saba and talk about galaxies with island residents young and old as part of the <a href="https://www.seaandlearn.org/">Saba Sea and Learn</a> program. 
+    I had a fantastic opportunity to travel to the island of Saba and talk about galaxies with island residents young and old as part of the <a href="https://www.seaandlearn.org/">Saba Sea and Learn</a> program. As part of the program, I gave island residents a tour of the beautiful night sky and taught elementary school students about the vast sizes in space.  
     <br>
     </div>
   </div>
