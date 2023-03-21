@@ -5,13 +5,159 @@ hero_image: nrao21ao18_Sreevani_FarawayH20_Illustration.jpg
 ---
 
 
-<html><head><meta content="text/html; charset=UTF-8" http-equiv="content-type"><style type="text/css">
-</style></head>
+<p>
+<strong><span style="text-decoration:underline;">Education</span></strong>
+</p>
+<p>
+<strong>University of Florida</strong>
+</p>
+<p>
+College of Liberal Arts & Sciences, Department of Astronomy
+</p>
+<p>
+M.S. Astronomy | June 2020
+</p>
+<p>
+Ph.D Astronomy | Expected August 2023
+</p>
+<ul>
+<li>Languages & Tools 
+	      <ul>
+	      <li>Python, git/github, high performance computing, SQL, HTML</li> 
+	      </ul>
+</li>
 
+<li>Data Analysis  
+	 <ul>
+ 	 <li>Bayesian inference with dynamic nested sampling, data classification and regression with scikit-learn</li>	  
+	 </ul>
+</li>
 
-<body class="c13 doc-content"><div><p class="c4 c11"><span class="c0"></span></p></div><p class="c1"><span class="c16">
-<h2>Sidney Lower</h2>
-<br><br>
-</span></p>
+<li>Data Visualization  
+	 <ul>
+ 	 <li>Python (matplotlib, seaborn), animated time-series, geospatial maps, interactive plots for multidimensional datasets, software framework infographics</li> 
+	 </ul>
+</li>
+<li>Activities 
+	       <ul>
+ 	       <li>National Science Foundation Research Experience for Undergrads 2022 Research Mentor</li>
+ 	       <li>Cosmic Dawn Center IRES 2021 Research Mentor</li>
+ 	       <li>Teaching Assistant</li> 
+	       </ul>
+</li>
+</ul>
+<p>
+<strong>University of Illinois, Urbana-Champaign</strong>
+</p>
+<p>
+College of Engineering, Department of Physics
+</p>
+<p>
+B.S. Engineering Physics | May 2018
+</p>
+<ul>
 
-<p class="c1 c4"><span class="c3"></span></p><p class="c1"><span class="c15"><h3>Education</h3></span></p><hr><p class="c1 c4"><span class="c14"></span></p><p class="c1"><span class="c2"><h5>University of Florida</h5></span></p><p class="c1"><span class="c0"><h6>College of Liberal Arts &amp; Sciences, Department of Astronomy</h6></span></p><p class="c1"><span class="c0">M.S. Astronomy | June 2020</span></p><p class="c1"><span class="c0">Ph.D Astronomy Candidacy | April 2021</span></p><p class="c1"><span class="c0">Ph.D Astronomy Expected December 2023</span></p><p class="c1 c4"><span class="c3"></span></p><p class="c1"><span class="c2"><h5>University of Illinois, Urbana-Champaign</h5></span></p><p class="c1"><span class="c0"><h6>College of Engineering, Department of Physics</h6></span></p><p class="c1"><span class="c0">B.S. Engineering Physics | May 2018<br><br></span></p><p class="c1 c4"><span class="c3"></span></p><p class="c1"><span class="c12"><h3>Research</h3></span></p><hr><p class="c1 c4"><span class="c14"></span></p><p class="c1"><span class="c2"><h5>Graduate Research Assistant</h5></span></p><p class="c1"><span class="c0"><h6>UF Department of Astronomy</h6></span></p><ul class="c9 lst-kix_u7be50ozagrr-0 start"><li class="c1 c8 c10 li-bullet-0"><span class="c0">Active in several collaborations across 20+ institutions to pool expertise, code, and data</span></li></ul><ul class="c9 lst-kix_clolzlp4sqmo-0 start"><li class="c1 c8 c10 li-bullet-0"><span class="c0">Maintained a research group documentation resource for onboarding purposes, introducing users to the UF supercomputing cluster, Hipergator, and various group tools</span></li><li class="c1 c8 c10 li-bullet-0"><span class="c0">Performed ray-tracing calculations of mock galaxies to generate spectra using the open-source software produced by research group PI (Powderday; Narayanan et al. 2021)</span></li><li class="c1 c8 c10 li-bullet-0"><span class="c0">Routinely performed literature reviews and generated data compilations to stay current on research and analysis across several disciplines</span></li><li class="c1 c8 c10 li-bullet-0"><span class="c0">Made improvements to several code bases used within the research group, ranging from day-1 bug mitigations and code clarity edits to repackaging loose Python scripts into trackable code repos</span></li></ul><ul class="c9 lst-kix_3gwwded8zrq7-0 start"><li class="c1 c8 c10 li-bullet-0"><span class="c0">Used Bayesian inference techniques to analyze mock galaxy spectral data in order to determine the efficacy of several models commonly used in the galactic astronomy community (Lower et al. 2020; Lower et al. 2022)</span></li><li class="c1 c8 c10 li-bullet-0"><span class="c0">Developed galaxy spectral data analysis pipeline to make predictions for observational proposals for ground-based and space-based facilities, leading to hundreds of hours of awarded time</span></li><li class="c1 c8 c10 li-bullet-0"><span class="c0">Routinely queried and analyzed large data sets, including 3D particle information, and spectral and time-series data</span></li><li class="c1 c8 c10 li-bullet-0"><span class="c0">Co-implemented an open source machine learning method to improve upon traditional spectral and time-series fitting algorithms, outperforming community standard benchmarks by 50% across the board (Mirkwood; Gilda, Lower, and Narayanan et al. 2020)</span></li><li class="c1 c8 c10 li-bullet-0"><span class="c0">Developed a suite of state-of-the-art galaxy formation simulations, improving upon previous resolution limits and model parameterizations (Lower et al. in prep) <br><br></span></li></ul><p class="c1 c4"><span class="c0"></span></p><p class="c1"><span class="c15"><h3>Teaching, Mentoring, &amp; Outreach</h3></span></p><hr><p class="c1 c4"><span class="c14"></span></p><p class="c1"><span class="c2"><h5>Graduate Research Mentor</h5></span></p><p class="c1"><span class="c0"><h6>UF Department of Astronomy</h6></span></p><ul class="c9 lst-kix_7no2edg0wsea-0 start"><li class="c1 c8 c10 li-bullet-0"><span class="c0">Mentored an advanced undergraduate student as part of the NSF REU 2022 program, developing and implementing a research plan to study properties of simulated galaxies</span></li><li class="c1 c8 c10 li-bullet-0"><span class="c0">Co-led a series of professional development seminars and weekly research check-ins as part of the 2021 Cosmic Dawn Center IRES program</span></li><li class="c1 c8 c10 li-bullet-0"><span class="c0">Sought out and offered routine advice and tools across research areas within the UF astronomy department</span></li><li class="c1 c8 c10 li-bullet-0"><span class="c0">Encouraged wider communication and a culture of collaboration between graduate students in the UF astronomy department by initiating and cultivating discussions about code and analysis issues</span></li><li class="c1 c8 c10 li-bullet-0"><span class="c0">Led twice-weekly journal club discussions with other graduate students, reviewing current research literature across a variety of sub-fields in astronomy</span></li></ul><p class="c1 c4"><span class="c2"></span></p><p class="c1"><span class="c2"><h5>Graduate Teaching Assistant</h5></span></p><p class="c1"><span class="c0"><h6>UF Department of Astronomy</h6></span></p><ul class="c9 lst-kix_8odh45fnx1my-0 start"><li class="c1 c8 c10 li-bullet-0"><span class="c0">Assisted undergraduate and graduated students with Python projects, including MCMC and Bayesian inference methods</span></li><li class="c1 c8 c10 li-bullet-0"><span class="c0">Introduced students to coding in a high performance environment, including tutorials on interfacing with SLURM and other cluster tools</span></li><li class="c1 c8 c10 li-bullet-0"><span class="c0">Gave lectures to non-STEM students covering basics of astronomy with hands-on labs covering telescope basics, spectroscopy, CCD cameras, and cosmology</span></li></ul><p class="c1 c4"><span class="c0"></span></p><p class="c1"><span class="c2"><h5>Graduate Outreach Chair</h5></span></p><p class="c1"><span class="c0"><h6>UF Department of Astronomy</h6></span></p><ul class="c9 lst-kix_lfhrarqj1z02-0 start"><li class="c1 c8 c10 li-bullet-0"><span class="c0">During COVID, coordinated with the Florida Museum of Natural History to bring virtual lectures to K-8th grade schools across Florida, as part of the Scientist in Every Florida Classroom program</span></li></ul><ul class="c9 lst-kix_i8lghw7t1q60-0 start"><li class="c1 c8 c10 li-bullet-0"><span class="c0">Collaborated with local community and school district leaders to organize in-person astronomy outreach events including Starlab shows and hands-on activities at local elementary &nbsp;schools<br><br></span></li></ul><p class="c1 c4"><span class="c12"></span></p><p class="c1"><span class="c12"><h3>Programming Experience</h3></span></p><hr><p class="c1 c4"><span class="c6"></span></p><p class="c1 c4"><span class="c6"></span></p><p class="c1 c5"><span class="c0"><b>Languages:</b> Python (7 years), Bash (5 years), Fortran (4 years), ANSI C (2 years), HTML (1 year), SQL (1 year)</span></p><p class="c1 c8"><span class="c7"><b>Tools:</b> MPI, hdf5, git</span></p></body></html>
+<li>Activities
+<ul>
+
+<li>Excellence in Physics Undergraduate Research Award, 2017</li>
+
+<li>Society of Physics Students President, 2017-2018</li>
+</ul>
+</li>
+</ul>
+<p>
+<strong><span style="text-decoration:underline;">Research Experience</span></strong>
+</p>
+<ul>
+
+<li><strong>Advanced Modeling and Data Visualization: </strong>Developed a suite of massively-parallel fluid dynamics simulations (Cosmic Sands), improving upon previous resolution limits and model parameterizations. Science results include understanding the formation of the first dusty, massive galaxies in the Universe. Results published: Lower et al. 2023</li>
+
+<li><strong>Astro-Focused Machine Learning: </strong>Co-developed an open source machine learning method (Mirkwood) to improve upon traditional spectral fitting algorithms, outperforming community standard codes by 50%. Science results include an enhanced ability to measure galaxy physical properties. Results published: Gilda, Lower, & Narayanan, 2021</li>
+
+<li><strong>Benchmarking Community Modeling Techniques: </strong>Performed 3D ray tracing simulations to generate galaxy spectra and used Bayesian inference to determine the efficacy of models commonly used in the galactic astronomy community. Science results include understanding the impact of model parameterizations on inferred galaxy properties. Results published: Lower et al. 2020, Lower et al. 2022</li>
+</ul>
+<p>
+<strong><span style="text-decoration:underline;">Teaching, Mentoring, & Outreach</span></strong>
+</p>
+<p>
+<strong>Graduate Research Mentor</strong>
+</p>
+<p>
+UF Department of Astronomy
+</p>
+<ul>
+
+<li>Mentored an advanced undergraduate student as part of the NSF REU 2022 program, developing and implementing a research plan to study properties of simulated galaxies</li>
+
+<li>Co-led a series of professional development seminars and weekly research check-ins as part of the 2021 Cosmic Dawn Center IRES program</li>
+
+<li>Sought out and offered routine advice and tools across research areas within the UF astronomy department</li>
+
+<li>Encouraged wider communication and a culture of collaboration between graduate students in the UF astronomy department by initiating and cultivating discussions about code and analysis issues</li>
+
+<li>Led twice-weekly journal club discussions with other graduate students, reviewing current research literature across a variety of sub-fields in astronomy
+</li>
+</ul>
+<p>
+<strong>Graduate Teaching Assistant</strong>
+</p>
+<p>
+UF Department of Astronomy
+</p>
+<ul>
+
+<li>Assisted undergraduate and graduated students with Python projects, including MCMC and Bayesian inference methods</li>
+
+<li>Introduced students to coding in a high performance environment, including tutorials on interfacing with SLURM and other cluster tools</li>
+
+<li>Gave lectures to non-STEM students covering basics of astronomy with hands-on labs covering telescope basics, spectroscopy, CCD cameras, and cosmology
+</li>
+</ul>
+<p>
+<strong>Graduate Outreach Chair</strong>
+</p>
+<p>
+UF Department of Astronomy
+</p>
+<ul>
+
+<li>During COVID, coordinated with the Florida Museum of Natural History to bring virtual lectures to K-8th grade schools across Florida, as part of the Scientist in Every Florida Classroom program</li>
+
+<li>Collaborated with local community and school district leaders to organize in-person astronomy outreach events including Starlab shows and hands-on activities at local elementary  schools
+</li>
+</ul>
+<p>
+<strong><span style="text-decoration:underline;">First and Second Author Publications</span></strong>
+</p>
+<ul>
+
+<li><em>Cosmic Sands: The Origin of Dusty, Star-forming Galaxies in the Epoch of Reionization</em>,<strong> </strong>Sidney Lower, Desika Narayanan, Qi Li, Romeel Davé; 2023, submitted ApJ, arxiv:2212.02636</li>
+
+<li><em>How Well Can We Measure Galaxy Dust Attenuation Curves? The Impact of the Assumed Star-Dust Geometry Model in SED Fitting</em>, Sidney Lower, Desika Narayanan, Joel Leja, Benjamin D. Johnson, Charlie Conroy, Romeel Davé; 2022, ApJ, 93, 14</li>
+
+<li><em>Mirkwood: Fast and Accurate SED Modeling Using Machine Learning</em>, Sankalp Gilda, Sidney Lower, Desika Narayanan; 2021, ApJ, 916, 43</li>
+
+<li><em>How Well Can We Measure the Stellar Mass of a Galaxy? The Impact of the Assumed Star Formation History Model in SED Fitting</em>, Sidney Lower, Desika Narayanan, Joel Leja, Benjamin D. Johnson, Charlie Conroy, Romeel Davé; 2020, ApJ, 904, 33
+
+<li><em>Cosmic Sands II:</em>,<strong> </strong>Sidney Lower, Desika Narayanan, et al.; in prep, expected publication June 2023</li>
+
+<li><em>Cosmic Sands III:</em>, Sidney<strong> </strong>Lower, Desika Narayanan, et al.; in prep, expected publication August 2023</li>
+</li>
+</ul>
+<p>
+<strong><span style="text-decoration:underline;">Invited Talks</span></strong>
+</p>
+<ul>
+
+<li>Harvard-Smithsonian Center for Astrophysics “Workshop on The Impact of Dust on Cosmological Inference,” December 2022</li>
+
+<li>Cosmic Dawn Center “Cake Talk,” August 2021</li>
+
+<li>University of Massachusetts, “Galaxy Lunch,” March 2021</li>
+
+<li>CANDELS SED-fitting Group, “Galaxy Evolution with CANDELS,” October 2020</li>
+
+<li>University of Arizona, “Galaxy Crawl,” April 2020
+</li>
+</ul>
