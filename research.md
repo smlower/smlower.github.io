@@ -145,7 +145,7 @@ My first experiences with research in undergrad at UIUC focused on galaxies disc
 <ul>
 <li><b>Galaxy Growth in a Massive Halo in the First Billion Years of Cosmic History</b>, Marrone, D. P., J. S. Spilker, C. C. Hayward, J. D. Vieira, et al., including S. Lower, 2018, Nature, 553, 51</li>
 
-<li><a href="https://scholar.google.com/citations?user=Rhxu2vsAAAAJ&hl=en">and more at my Google Scholar profile</a> </li>
+<li><a href="https://ui.adsabs.harvard.edu/search/filter_aff_facet_hier_fq_aff=OR&filter_aff_facet_hier_fq_aff=aff_facet_hier%3A%220%2FU%20FL%22&filter_aff_facet_hier_fq_aff=aff_facet_hier%3A%220%2FUIUC%22&filter_property_fq_property=AND&filter_property_fq_property=property%3A%22refereed%22&fq=%7B!type%3Daqp%20v%3D%24fq_property%7D&fq=%7B!type%3Daqp%20v%3D%24fq_aff%7D&fq_aff=(aff_facet_hier%3A%220%2FU%20FL%22%20OR%20aff_facet_hier%3A%220%2FUIUC%22)&fq_property=(property%3A%22refereed%22)&q=author%3A%22Lower%2C%20Sidney%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)https://ui.adsabs.harvard.edu/search/filter_aff_facet_hier_fq_aff=OR&filter_aff_facet_hier_fq_aff=aff_facet_hier%3A%220%2FU%20FL%22&filter_aff_facet_hier_fq_aff=aff_facet_hier%3A%220%2FUIUC%22&filter_property_fq_property=AND&filter_property_fq_property=property%3A%22refereed%22&fq=%7B!type%3Daqp%20v%3D%24fq_property%7D&fq=%7B!type%3Daqp%20v%3D%24fq_aff%7D&fq_aff=(aff_facet_hier%3A%220%2FU%20FL%22%20OR%20aff_facet_hier%3A%220%2FUIUC%22)&fq_property=(property%3A%22refereed%22)&q=author%3A%22Lower%2C%20Sidney%22&sort=date%20desc%2C%20bibcode%20desc&p_=0">and more on ADS</a> </li>
 </ul>
 </div>
 
