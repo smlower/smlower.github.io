@@ -30,7 +30,11 @@ As part of my thesis, my current work is again focused on the first dusty galaxi
 <img style="float: center;" src="cosmic_sands.png">
 <div class="caption">
 
-     <a href="https://ui.adsabs.harvard.edu/abs/2022arXiv221202636L/abstract">Lower et al. 2022, submitted</a>
+     <a href="https://iopscience.iop.org/article/10.3847/1538-4357/accf8c">Lower et al. 2023 -- Cosmic Sands: The Origin of Dusty, Star-forming Galaxies in the Epoch of Reionization</a>
+
+<br>
+
+     <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ad306c">Lower et al. 2024 -- Cosmic Sands. II. Challenges in Predicting and Measuring High-z Dust Temperatures</a>
      
 </div>
 <div>
@@ -121,9 +125,15 @@ My first experiences with research in undergrad at UIUC focused on galaxies disc
 <div class="columns is-center">
   <div class="column is-half">
 <img style="float: center;" src="lensing.jpeg" width="700">
+<div class="caption">
+Credit: ALMA (ESO/NRAO/NAOJ), L. Calçada (ESO), Y. Hezaveh et al.   
+</div>
 </div>
 <div class="column is-half">
 <img style="float: center;" src="spt_qir.png" width="500">
+<div class="caption">
+Credit: Sidney Lower & Joaquin Vieira, American Astronomical Society, AAS Meeting #231, id. 149.41   
+</div>
 </div>
 </div>
 
@@ -133,6 +143,10 @@ My first experiences with research in undergrad at UIUC focused on galaxies disc
 <h2>First and Second Author</h2>
 
 <ul>
+<li><b>Cosmic Sands. II. Challenges in Predicting and Measuring High-z Dust Temperatures</b>, Sidney Lower, Desika Narayanan, Chia-Yu Hu, George Privon; 2024, ApJ, 956, 123</li>
+
+<li><b>Cosmic Sands: The Origin of Dusty, Star-forming Galaxies in the Epoch of Reionization</b>, Sidney Lower, Desika Narayanan, Qi Li, Romeel Davé; 2023, ApJ, 950, 94</li>
+
 <li><b>How Well Can We Measure Galaxy Dust Attenuation Curves? The Impact of the Assumed Star-Dust Geometry Model in SED Fitting</b>, Sidney Lower, Desika Narayanan, Joel Leja, Benjamin D. Johnson, Charlie Conroy, Romeel Davé; 2022, ApJ, 93, 14</li>
 
 <li><b>Mirkwood: Fast and Accurate SED Modeling Using Machine Learning</b>, Sankalp Gilda, Sidney Lower, Desika Narayanan; 2021, ApJ, 916, 43</li>
