@@ -1,10 +1,10 @@
-- name: Research
+- name: Astronomy Research
   link: research
-- name: Guidehouse - NOAA
-  link: Guidehouse_NOAA
+- name: Guidehouse @ NOAA
+  link: guidehouse
 - name: Teaching and Outreach
   link: outreach
-- name: CV
-  link: cv
+#- name: CV
+#  link: cv
 - name: Contact
   link: contact

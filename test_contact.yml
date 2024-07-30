@@ -1,0 +1,28 @@
+style: is-light
+height: is-medium
+items:
+  - title: Email
+    subtitle:  
+    icon: fa-envelope
+    call_to_action_name: sidneylower96@gmail.com
+    call_to_action_link: mailto:sidneylower96@gmail.com
+  
+  - title: Github
+    subtitle:  
+    icon: fa-GitHub
+    icon_brand: True
+    call_to_action_name: @SidneyLower-NOAA
+    call_to_action_link: https://github.com/SidneyLower-NOAA\
+
+  - title: Google Scholar
+    subtitle:  
+    icon: fa-book
+    call_to_action_name: Sidney Lower
+    call_to_action_link: https://scholar.google.com/citations?user=Rhxu2vsAAAAJ&hl=en
+
+  - title: Twitter
+    subtitle:  
+    icon: fa-twitter
+    icon_brand: True
+    call_to_action_name: @es_em_ell
+    call_to_action_link: https://twitter.com/es_em_ell
