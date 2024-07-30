@@ -28,8 +28,8 @@ permalink: contact
                             
                             <p class="block"><h5>Email</h5></p>
                             
-                            <a href="mailto:s.lower@ufl.edu" class="button is-primary">
-                                s.lower@ufl.edu
+                            <a href="mailto:sidneylower96@gmail.com" class="button is-primary">
+                                sidneylower96@gmail.com
                             </a>
                             
                         </div>
@@ -44,8 +44,8 @@ permalink: contact
                             
                             <p class="block"><h5>Github</h5></p>
                             
-                            <a href="https://github.com/smlower" class="button is-primary">
-                                @smlower
+                            <a href="https://github.com/SidneyLower-NOAA" class="button is-primary">
+                                @SidneyLower-NOAA
                             </a>
                             
                         </div>
