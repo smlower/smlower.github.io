@@ -13,6 +13,7 @@ items:
     icon_brand: True
     call_to_action_name: SidneyLower-NOAA
     call_to_action_link: https://github.com/SidneyLower-NOAA\
+    
   - title: LinkedIn
     subtitle:  
     icon: fa-linkedin
@@ -32,3 +33,10 @@ items:
     icon_brand: True
     call_to_action_name: es_em_ell
     call_to_action_link: https://twitter.com/es_em_ell
+
+  - title: Knitting Archive
+    subtitle:
+    icon: ".../icons8-knitting-ios_filled-50.png"
+    icon_brand: False
+    call_to_action_name: knitting.archive
+    call_to_action_link: https://smlower.github.io/knitting.archive/
