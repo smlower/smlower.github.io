@@ -147,8 +147,8 @@ Since joining the University of Florida astronomy department, I've had fantastic
 <div class="card">
   <div class="card-image">
     <figure class="image">
-      <img src="sefs.png">
-      <img src="sefs2.png">
+      <img src="sefs.jpeg">
+      <img src="sefs2.jpeg">
     </figure>
   </div>
   <div class="card-content">
