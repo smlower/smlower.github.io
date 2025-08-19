@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Contact & Links
 hero_image: nrao21ao18_Sreevani_FarawayH20_Illustration.jpg
 permalink: contact
 callouts: test_contact

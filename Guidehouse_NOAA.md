@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Guidehouse @ NOAA MDL
+title: Arch Systems for NOAA MDL
 permalink: guidehouse
 hero_image: nrao21ao18_Sreevani_FarawayH20_Illustration.jpg
 ---
@@ -14,12 +14,12 @@ hero_image: nrao21ao18_Sreevani_FarawayH20_Illustration.jpg
 </div>
   </div>
   <div class="column">
-    <span class="title">NOAA MDL</span><br>
+    <span class="title">Meteorological Development Lab</span><br>
     <span class="subtitle">
     <br>
     <dl>
   
-	As a software engineer at Guidehouse, I work with a team in the National Weather Service's (NWS) Meteorological Development Laboratory (MDL) to develop next-generation statistical modeling software to assist in forecasting guidance. As part of the Statistical Modeling Division (SMD), our goal is to not only improve forecasting and post-processing methods scientifically but to empower users by building software tools that are accessible and flexible by leveraging open-source packages. 
+	As a data scientist at Arch Systems, I work with a team in the National Weather Service's (NWS) Meteorological Development Laboratory (MDL) to develop next-generation statistical modeling software to assist in forecasting guidance. As part of the Statistical Modeling Division (SMD), our goal is to not only improve forecasting and post-processing methods scientifically but to empower users by building software tools that are accessible and flexible by leveraging open-source packages. 
 
 </dl>
 
