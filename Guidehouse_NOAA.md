@@ -14,7 +14,7 @@ hero_image: nrao21ao18_Sreevani_FarawayH20_Illustration.jpg
 </div>
   </div>
   <div class="column">
-    <span class="title">Meteorological Development Lab</span><br>
+    <span class="title">Office of Modeling and Development: Weather Guidance & Products</span><br>
     <span class="subtitle">
     <br>
     <dl>
