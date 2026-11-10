@@ -143,6 +143,7 @@ Credit: Sidney Lower & Joaquin Vieira, American Astronomical Society, AAS Meetin
 <h2>First and Second Author</h2>
 
 <ul>
+<li><b>The Macro and Micro of Cosmic Dust: A Holistic Study of Dusty Galaxy Evolution with Cosmological Simulations</b>, Sidney Lower; 2023, <a href="https://ufdc.ufl.edu/UFE0060075/00001"> Ph. D. University of Florida</a> </li>
 <li><b>Cosmic Sands. II. Challenges in Predicting and Measuring High-z Dust Temperatures</b>, Sidney Lower, Desika Narayanan, Chia-Yu Hu, George Privon; 2024, ApJ, 956, 123</li>
 
 <li><b>Cosmic Sands: The Origin of Dusty, Star-forming Galaxies in the Epoch of Reionization</b>, Sidney Lower, Desika Narayanan, Qi Li, Romeel Davé; 2023, ApJ, 950, 94</li>
